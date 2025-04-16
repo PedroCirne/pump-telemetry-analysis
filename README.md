@@ -4,7 +4,7 @@ Este projeto simula a análise de telemetria de bombas industriais com foco em *
 
 ---
 
-## 📊 Sobre os Dados
+##  Sobre os Dados
 
 O dataset simulado contém leituras a cada 15 minutos de três bombas industriais distintas, com os seguintes parâmetros monitorados:
 
@@ -22,15 +22,15 @@ Os dados estão disponíveis em: [`/data/pump_telemetry.csv`](data/pump_telemetr
 
 ---
 
-## 🧠 Notebooks
+##  Notebooks
 
-- 📈 **01_eda.ipynb** — Análise exploratória dos dados
-- 🚨 **02_anomaly_detection.ipynb** — Identificação de anomalias operacionais
-- 🔮 **03_predictive_model.ipynb** — Criação de modelo preditivo (ex: manutenção preditiva)
+-  **01_eda.ipynb** — Análise exploratória dos dados
+-  **02_anomaly_detection.ipynb** — Identificação de anomalias operacionais
+-  **03_predictive_model.ipynb** — Criação de modelo preditivo (ex: manutenção preditiva)
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
 - Jupyter Notebook
@@ -39,7 +39,7 @@ Os dados estão disponíveis em: [`/data/pump_telemetry.csv`](data/pump_telemetr
 
 ---
 
-## 🚀 Como executar
+##  Como executar
 
 1. Clone o repositório:
 
